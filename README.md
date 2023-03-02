@@ -1,2 +1,2 @@
 # GOLBYTE_Frontend_code
-The front-end of a personnel website developed with React
+The front-end code of a personnel website developed with React
